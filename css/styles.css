@@ -99,3 +99,16 @@ body {
 .row{
     width: 100%;
 }
+.clients {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: auto 0 40px auto;
+}
+
+.carousel-item{
+    height: 500px;
+}
+.carousel {
+    text-align: center;
+}
