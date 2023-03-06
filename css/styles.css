@@ -1,0 +1,101 @@
+
+body {
+    margin: 0;
+    
+}
+.top-container {
+    background-color: #F14C74;
+    width: 100%;
+}
+
+    
+
+.header {
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 7px;
+    color: white;
+}
+.header:hover{
+    text-decoration: none;
+    padding: 10px;
+    margin-top: 7px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 7px;
+}
+
+.middle.container {
+    width: 100%;
+}
+.download-logo {
+    text-align: center;
+    background-color: #F14C74;
+    color: white;
+}
+.buttons {
+    padding-top: 100px;
+}
+.download {
+    width: 150px;
+    height: 30px;
+    margin: auto 15px;
+    background-color: #F14C74;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: white;
+    border-width: 1px;
+    color: white;
+}
+.download:hover {
+    width: 150px;
+    height: 30px;
+    margin: auto 15px;
+    background-color: white;
+    border-style: solid;
+    border-radius: 4px;
+    border-color: white;
+    border-width: 1px;
+    color: #F14C74;
+}
+.middle {
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 90px;
+
+}
+.log {
+    color: #F14C74;
+}
+.bottom-container {
+    text-align: center;
+    background-color: #F14C74;
+    margin: 0;
+    padding: 0;
+    height: 100px;
+}
+.footer {
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+    position: relative;
+    top: 20px;
+    
+
+}
+.copyright {
+    font-size: 80%;
+    color: white;
+    padding-top: 50px;
+    margin-bottom: 0%;
+    padding-bottom: 5px;
+}
+.desc {
+    padding-top: 30px;
+    padding-right: 0;
+    margin-right: 0;
+}
+.row{
+    width: 100%;
+}
